@@ -1,0 +1,2 @@
+SolastaUnarmoredDefense/&FancySkeletonTitle	Fancy Skeleton
+SolastaUnarmoredDefense/&FancySkeletonDescription	I'm a fancy skeleton

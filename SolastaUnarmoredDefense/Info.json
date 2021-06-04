@@ -1,0 +1,13 @@
+{
+	"Id": "SolastaUnarmoredDefense",
+	"DisplayName": "SolastaUnarmoredDefense",
+	"Author": "Mathih13",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "SolastaUnarmoredDefense.dll",
+	"EntryMethod": "SolastaUnarmoredDefense.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Mathih13/SolastaUnarmoredDefense/main/SolastaUnarmoredDefense/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
